@@ -1,7 +1,7 @@
 # Movie App
 
 ## Description
-A React application that allows users to manage and view their favorite movies or TV shows. Users can add new movies, and filter the movie list based on title and rating. The app uses React Hooks for state management.
+A React application that allows users to manage and view their favorite Kenyan movies and TV shows. Users can add new movies, and filter the movie list based on title and rating. The app uses React Hooks for state management.
 
 ## Components
 - **MovieCard**: Displays movie details including title, description, poster image, and rating.
@@ -13,7 +13,7 @@ A React application that allows users to manage and view their favorite movies o
 - Filter movies by title and rating.
 
 ## Setup
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository: `git clone https://github.com/Onesmus123/React-Hooks-Checkpoint-.git`
 2. Install dependencies: `npm install`
 3. Start the development server: `npm start`
 
